@@ -1,0 +1,41 @@
+Exercise 1.8 – Errors Found
+
+1. The DOCTYPE declaration had an incorrect character.
+
+2. The HTML tag used incorrect capitalization.
+
+3. The meta tag was incorrectly written.
+
+4. The title tag was missing its closing tag.
+
+5. The h1 heading had an incorrect closing tag.
+
+6. The h2 heading was not properly closed.
+
+7. The paragraph tag contained incorrect characters.
+
+8. The strong tag was closed with the wrong tag.
+
+9. The unordered list (ul) tag was incorrectly written.
+
+10. The Reading list item was missing its closing tag.
+
+11. The Gaming list item had incorrect spacing.
+
+12. The unordered list structure was incorrect.
+
+13. The Top 5 Books heading had a mismatched closing tag.
+
+14. The Book One list item was missing its closing tag.
+
+15. Book Three used an incorrect list tag.
+
+16. The Book Four list item had incorrect spacing.
+
+17. The Book Five list item was missing its closing tag.
+
+18. The Thanks for visiting paragraph was not closed.
+
+19. The final strong tag was incorrectly closed.
+
+20. The HTML document was missing its closing tag.
